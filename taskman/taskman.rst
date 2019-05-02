@@ -28,7 +28,7 @@ Verifying the Default Project
 
    .. figure:: images/1.png
 
-#. Under **Network**, verify the **Primary** and **Secondary** networks are selected and the **Primary** network is the default. Otherwise, make the selections as shown below.
+#. Under **Network**, verify that the **Primary** network is checked.
 
    .. figure:: images/2.png
 
@@ -149,7 +149,7 @@ Launching the Blueprint
 
    You can monitor the status of your application deployment by clicking |applications| **Applications** and clicking your application's name.
 
-   Provisioning the complete application will take approximately 15 minutes. Proceed to the next section of the lab while the application is provisioning.
+   Provisioning the complete application will take approximately 15 minutes.
 
 .. |projects| image:: images/projects.png
 .. |blueprints| image:: images/blueprints.png
