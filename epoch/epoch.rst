@@ -185,6 +185,10 @@ Configuring Dashboards & Integrations
 
 While the Map view provides an interactive means of viewing Live or historical metrics, Epoch Dashboards provide both out-of-the-box and customizable views that can help identify point-in-time values and meaningful attributes of the data source (e.g. DNS domain types or HTTP status codes).
 
+Each of these pre-configured dashboards can be cloned and customized per indiviual user requirements. You can also change into different view by clicking on edit "Pencil icon"
+
+Note: Epoch team is putting some new UI enchancements so the screenshots might not match exact as shown in Lab. We shall update the screenshots once all UI changes are incorporated by Epoch engineering team
+
 Integrations are what power advanced data collection within the AOC with support for specific applications and protocols. Epoch currently supports over 75 different applications and services, including vSphere, SQL Server, MySQL, ssh, Nginx, AWS and more.
 
 #. In the **AOC**, select **Integrations**.
